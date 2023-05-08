@@ -15,6 +15,7 @@ void MyScanf(){
 }
 
 int main(){
+    MyScanf();
     printf("aaa\n");
     return 0;
 }
