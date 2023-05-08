@@ -6,6 +6,14 @@ void MyPrint(){
     return;
 }
 
+void MyScanf(){
+    // 接受数据并打印
+    int a;
+    scanf("%d", a);
+    printf("输入的数据是：%d", a);
+    return;
+}
+
 int main(){
     printf("aaa\n");
     return 0;
